@@ -68,10 +68,10 @@ footer {
     padding: 10px;
 }
 
-nav a: hover {
+nav a:hover {
     color: yellow;
 }
 
-.add-btn: hover {
+.add-btn:hover {
     background-color: #1a252f;
 }
